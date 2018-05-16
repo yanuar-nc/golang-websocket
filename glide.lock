@@ -1,0 +1,10 @@
+hash: bb8bf6c3285267eb7fde707b5f2dfb7698147e515ab26b3b50de04430feb5587
+updated: 2018-05-14T16:35:30.347008+07:00
+imports:
+- name: github.com/gorilla/websocket
+  version: ea4d1f681babbce9545c9c5f3d5194a789c89f5b
+- name: github.com/joho/godotenv
+  version: a79fa1e548e2c689c241d10173efd51e5d689d5b
+- name: github.com/mattn/go-sqlite3
+  version: a72efd674f654961a11ac41aae72c0e43963fe6c
+testImports: []
